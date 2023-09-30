@@ -62,4 +62,4 @@ They can use their card as well as paypay account.
 ![Screenshot (110)](https://github.com/farmanmohd124/E-commerce-web-app/assets/132144785/24e99bee-4a59-4c9c-be77-e48bdd4b3db8)
 
 
-#                                                                                             THANK YOU FOR VISTING (●'◡'●)❤️
+#                                                                                             THANK YOU FOR VISITING (●'◡'●)❤️
