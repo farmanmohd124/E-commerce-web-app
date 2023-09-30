@@ -10,9 +10,10 @@ Developed a user authentication system involves creating a register, login, and 
 This ensures secure access to authorized users while safeguarding sensitive information.
 Encryption and verification processes add an extra layer of security.
 
-![Screenshot (117)](https://github.com/farmanmohd124/E-commerce-web-app/assets/132144785/bf265c18-f926-499f-883d-b6ee17922737)
+![Screenshot (119)](https://github.com/farmanmohd124/E-commerce-web-app/assets/132144785/f8edacbf-df58-4dd6-af2e-0eb14e541cf1)
 
-![Screenshot (116)](https://github.com/farmanmohd124/E-commerce-web-app/assets/132144785/c746da59-3884-45b3-9642-e56ce88d2d51)
+![Screenshot (120)](https://github.com/farmanmohd124/E-commerce-web-app/assets/132144785/4b83d6df-05ee-4c27-b59f-c98d56695a94)
+
 ![Screenshot (118)](https://github.com/farmanmohd124/E-commerce-web-app/assets/132144785/05bbcea6-ae5b-46d3-85e4-a41a093b9dbd)
 
 ---
@@ -59,3 +60,6 @@ Multiple payment options and clear instructions enhance the user experience.
 They can use their card as well as paypay account.
 
 ![Screenshot (110)](https://github.com/farmanmohd124/E-commerce-web-app/assets/132144785/24e99bee-4a59-4c9c-be77-e48bdd4b3db8)
+
+
+#                                                                                             THANK YOU FOR VISTING (●'◡'●)❤️
